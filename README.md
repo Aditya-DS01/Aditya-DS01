@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on building a strong foundation in Data Science and Web Development.<br><br>👯 I’m looking to collaborate on beginner-friendly open source Python projects.<br><br>🤝 I’m looking for help with understanding advanced algorithm optimization.<br><br>🌱 I’m currently learning Data Structures & Algorithms (DSA) and the MERN stack.<br><br>💬 Ask me about Python logic, HTML/CSS, and bridging code with data.<br><br>⚡ Fun fact I actually enjoy analyzing time complexity—making code faster is my favorite puzzle.
+🔭 I’m currently working on building a strong foundation in Data Science and Web Development.<br><br>👯 I’m looking to collaborate on open source Python and Web Development projects.<br><br>🤝 I’m looking for help with understanding advanced algorithm optimization.<br><br>🌱 I’m currently learning Data Structures & Algorithms (DSA) and the MERN stack.<br><br>💬 Ask me about Python logic, HTML/CSS, and bridging code with data.<br><br>⚡ Fun fact I actually enjoy analyzing time complexity—making code faster is my favorite puzzle.
 
 
 ## 🌐 Socials:
